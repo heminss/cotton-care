@@ -1,0 +1,487 @@
+{
+  "Alternaria Leaf Spot": {
+    "category": "Fungal Disease",
+    "pathogen": "Alternaria macrospora / Alternaria alternata",
+    "severity": "Moderate",
+    "severity_color": "#FFA500",
+    "overview": "Alternaria Leaf Spot is a destructive fungal infection that predominantly attacks cotton foliage during wet, humid weather, forming concentric necrotic rings and leading to premature defoliation.",
+    "symptoms": [
+      "Small circular brown or purplish-brown spots on leaves (1-5 mm).",
+      "Lesions enlarge with characteristic 'target-board' or concentric ring patterns.",
+      "A pale chlorotic yellow halo typically encircles each necrotic spot.",
+      "Multiple spots coalesce into large irregular blighted patches causing leaf crinkling.",
+      "Severely affected leaves dry up, become brittle, and drop prematurely, reducing photosynthetic capacity."
+    ],
+    "immediate_actions": [
+      "Isolate and mark infected field zones to monitor rate of spread.",
+      "Prune heavily infected lower leaves and safely destroy or bury crop residue outside the field.",
+      "Avoid overhead sprinkler irrigation; switch to drip or furrow watering to minimize canopy moisture.",
+      "Spray recommended protective fungicide within 48 hours if cloudy, humid conditions persist."
+    ],
+    "chemical_control": [
+      "Mancozeb 75% WP: 2.5 to 3.0 g per liter of water (protective spray).",
+      "Propiconazole 25% EC: 1.0 ml per liter of water (systemic curative spray).",
+      "Azoxystrobin 18.2% + Difenoconazole 11.4% SC: 1.0 ml per liter of water.",
+      "Copper Oxychloride 50% WP: 2.5 to 3.0 g per liter of water."
+    ],
+    "organic_biological": [
+      "Neem Seed Kernel Extract (NSKE 5%) or cold-pressed Neem Oil (3-5 ml/L with emulsifier).",
+      "Trichoderma viride or Pseudomonas fluorescens: 5 g/liter foliar spray in the evening.",
+      "Cow urine (10%) mixed with fermented butter milk (sour chaas) as an immune-boosting bio-fungicide."
+    ],
+    "prevention": [
+      "Treat seeds with Thiram or Carbendazim (2 g/kg seed) before sowing.",
+      "Maintain wider row-to-row spacing (90x60 cm or 120x45 cm) for optimal aeration and sunlight penetration.",
+      "Avoid excessive nitrogen fertilizer application, which causes succulent leaves prone to fungal spores.",
+      "Practice deep summer plowing to bury overwintering fungal spores in soil."
+    ],
+    "favorable_weather": "Warm temperatures (25-30°C) with continuous relative humidity above 80% and prolonged dew/rainfall.",
+    "translations": {
+      "hi": {
+        "name": "अल्टरनेरिया लीफ स्पॉट (पत्ती का धब्बा रोग)",
+        "overview": "यह एक फफूंद जनित रोग है जो पत्तियों पर संकेंद्रित छल्लों जैसे भूरे-काले धब्बे बनाता है और पत्तियां समय से पहले झड़ने लगती हैं।",
+        "quick_advice": "मैनकोज़ेब (2.5 ग्राम/लीटर) या प्रोपिकोनाज़ोल (1 मिली/लीटर) का छिड़काव करें और खेत में जलभराव न होने दें।"
+      },
+      "mr": {
+        "name": "अल्टरनेरिया पानावरील ठिपके",
+        "overview": "हा एक बुरशीजन्य रोग असून पाठीवर वर्तुळाकार तपकिरी ठिपके पडतात आणि पाने गळतात.",
+        "quick_advice": "मॅन्कोझेब (२.५ ग्रॅम/लिटर) किंवा प्रोपिकोनाझोल (१ मिली/लिटर) फवारावे."
+      },
+      "gu": {
+        "name": "અલ્ટરનેરિયા પાન ના ટપકા",
+        "overview": "આ એક ફૂગજન્ય રોગ છે જેનાથી કપાસના પાન પર ગોળ ટપકાં પડે છે અને પાન ખરી પડે છે.",
+        "quick_advice": "મેન્કોઝેબ (૨.૫ ગ્રામ/લિટર) અથવા પ્રોપીકોનાઝોલ (૧ મિલી/લિટર) નો છંટકાવ કરવો."
+      }
+    }
+  },
+
+  "Bacterial Blight": {
+    "category": "Bacterial Disease",
+    "pathogen": "Xanthomonas citri pv. malvacearum",
+    "severity": "High",
+    "severity_color": "#FF4D4D",
+    "overview": "Also known as Angular Leaf Spot or Blackarm, Bacterial Blight is a highly contagious bacterial vascular disease affecting leaves, stems, and cotton bolls.",
+    "symptoms": [
+      "Small, translucent water-soaked spots on the underside of young leaves.",
+      "Lesions expand into sharply defined angular spots delimited by veinlets.",
+      "Spots turn dark reddish-brown to pitch black on the upper leaf surface.",
+      "Infection spreads along the main veins causing systemic 'black vein' necrosis.",
+      "Severe infections lead to stem lesions (Blackarm phase) and boll rot (Boll blight)."
+    ],
+    "immediate_actions": [
+      "Strictly avoid working in the field when plants are wet from rain or morning dew to stop bacterial transmission.",
+      "Sterilize farm implements with 0.1% sodium hypochlorite solution.",
+      "Immediately apply a combination of bactericide and copper fungicide to arrest lesion spread."
+    ],
+    "chemical_control": [
+      "Copper Oxychloride 50% WP (2.5 g/L) + Streptocycline (100 mg / 1 g per 10 L water).",
+      "Kasugamycin 3% SL: 2.0 to 2.5 ml per liter of water.",
+      "Copper Hydroxide 53.8% DF: 2.0 g per liter of water."
+    ],
+    "organic_biological": [
+      "Foliar spray of Pseudomonas fluorescens (10 g/L) to establish protective bacterial antagonism.",
+      "Garlic and ginger bulb extract (5%) foliar spray.",
+      "Neem cake soil amendment @ 250 kg/hectare during basal preparation."
+    ],
+    "prevention": [
+      "Acid delinting of cotton seeds with concentrated sulfuric acid (100 ml/kg seed).",
+      "Seed treatment with Streptocycline (1 g/10 kg seed) soaked for 2 hours.",
+      "Select resistant hybrid varieties recommended by State Agricultural Universities (SAUs).",
+      "Rotate cotton with non-host crops such as sorghum, pearl millet, or maize for 2 seasons."
+    ],
+    "favorable_weather": "Intermittent rains, warm temperatures (28-34°C), and high relative humidity (>85%).",
+    "translations": {
+      "hi": {
+        "name": "बैक्टीरियल ब्लाइट (कोणीय पत्ती धब्बा / जीवाणु झुलसा)",
+        "overview": "यह जीवाणु जनित एक गंभीर रोग है जो नसों से घिरे कोणीय पानीदार काले धब्बे बनाता है और टहनियों को सुखा देता है।",
+        "quick_advice": "कॉपर ऑक्सीक्लोराइड (2.5 ग्राम) + स्ट्रेप्टोसाइक्लिन (1 ग्राम प्रति 10 लीटर) का छिड़काव तुरंत करें।"
+      },
+      "mr": {
+        "name": "जिवाणूजन्य करपा (अँग्युलर लीफ स्पॉट)",
+        "overview": "हा जिवाणूमुळे होणारा रोग असून पानांवर शिरांनी मर्यादित झालेले काळे त्रिकोणी ठिपके पडतात.",
+        "quick_advice": "कॉपर ऑक्सीक्लोराईड (२.५ ग्रॅम) + स्ट्रेप्टोसायक्लिन (१ ग्रॅम प्रति १० लिटर पाण्यात) फवारावे."
+      },
+      "gu": {
+        "name": "બેક્ટેરિયલ બ્લાઈટ (ખૂણીયો ટપકા નો રોગ)",
+        "overview": "આ જીવાણુથી થતો રોગ છે જેમાં પાન પર ખૂણા આકારના પાણીપોચા કાળા ડાઘ પડે છે.",
+        "quick_advice": "કોપર ઓક્સીક્લોરાઈડ (૨.૫ ગ્રામ) + સ્ટ્રેપ્ટોસાયક્લિન (૧ ગ્રામ પ્રતિ ૧૦ લિટર) નો છંટકાવ કરવો."
+      }
+    }
+  },
+
+  "Curl Virus": {
+    "category": "Viral Disease",
+    "pathogen": "Cotton Leaf Curl Multan Virus (CLCuMuV) transmitted by Whitefly (Bemisia tabaci)",
+    "severity": "Critical",
+    "severity_color": "#D32F2F",
+    "overview": "Cotton Leaf Curl Virus (CLCuV) is a devastating begomovirus that severely reduces cotton canopy, causing upward/downward leaf curling, enations, and stunted plant growth.",
+    "symptoms": [
+      "Upward or downward cupping and curling of young terminal leaves.",
+      "Thickening and darkening of primary and secondary leaf veins (vein swelling).",
+      "Formation of small leaf-like outgrowths (enations) on the lower surface of leaves.",
+      "Stunting of the entire plant with shortened internodes and bush-like appearance.",
+      "Severe drop in square formation and small, malformed bolls with poor lint yield."
+    ],
+    "immediate_actions": [
+      "Uproot and burn or deeply bury early infected plants (rouging) before flowering.",
+      "Target the whitefly vector immediately using systemic or translaminar insecticides.",
+      "Erect yellow sticky traps (15-20 traps per acre) across the field to monitor and catch adult whiteflies.",
+      "Clear weed hosts (Parthenium hysterophorus, Xanthium, Abutilon) around field borders."
+    ],
+    "chemical_control": [
+      "Diafenthiuron 50% WP: 1.2 g per liter of water (for nymph and adult whitefly control).",
+      "Pyriproxyfen 10% + Bifenthrin 10% EC: 2.0 ml per liter of water.",
+      "Afidopyropen 50 g/L DC: 2.0 ml per liter of water (specialist whitefly feeding blocker).",
+      "Spiromesifen 22.9% SC: 1.0 to 1.2 ml per liter of water."
+    ],
+    "organic_biological": [
+      "Spray 5% NSKE (Neem Seed Kernel Extract) or 10,000 ppm Azadirachtin @ 1.5 ml/L.",
+      "Entomopathogenic fungi: Beauveria bassiana or Verticillium lecanii @ 5 g/L during humid hours.",
+      "Conserve natural predators such as ladybird beetles, Chrysoperla carnea, and predatory mites."
+    ],
+    "prevention": [
+      "Sow CLCuV-tolerant / resistant cotton hybrids adapted to your specific agro-climatic region.",
+      "Timely early sowing avoids peak whitefly population peaks during early vegetative growth.",
+      "Avoid growing alternative host plants (okra, brinjal, tomato, chillies) near cotton fields.",
+      "Maintain clean field borders free from broadleaf perennial weeds."
+    ],
+    "favorable_weather": "Hot and dry conditions with temperatures between 32-40°C that accelerate whitefly multiplication.",
+    "translations": {
+      "hi": {
+        "name": "कॉटन लीफ कर्ल वायरस (पत्ती मरोड़ रोग)",
+        "overview": "यह सफेद मक्खी द्वारा फैलाया जाने वाला बेहद खतरनाक वायरस है, जिससे पत्तियां ऊपर या नीचे मुड़ जाती हैं और पौधे की वृद्धि रुक जाती है।",
+        "quick_advice": "सफेद मक्खी पर नियंत्रण के लिए डायफेंथियूरॉन (1.2 ग्राम/लीटर) या पाइरीप्रॉक्सीफेन का छिड़काव करें और पीले चिपचिपे ट्रैप लगाएं।"
+      },
+      "mr": {
+        "name": "कापूस पाने चुरमुरणे (लीफ कर्ल व्हायरस)",
+        "overview": "हा पांढऱ्या माशीमार्फत पसरणारा विषाणूजन्य रोग आहे. पाने वाकडी-तिकडी होतात आणि वाढ खुंटते.",
+        "quick_advice": "पांढऱ्या माशीच्या नियंत्रणासाठी पिवळे चिकट सापळे लावा आणि डायफेन्थियुरॉन (१.२ ग्रॅम/लिटर) फवारा."
+      },
+      "gu": {
+        "name": "કપાસનો પાન વળવાનો રોગ (લીફ કર્લ વાયરસ)",
+        "overview": "આ સફેદ માખી દ્વારા ફેલાતો વાયરલ રોગ છે જેનાથી પાન કોકડાઈ જાય છે અને છોડનો વિકાસ અટકી જાય છે.",
+        "quick_advice": "સફેદ માખીના નિયંત્રણ માટે ડાયફેન્થિયુરોન (૧.૨ ગ્રામ/લિટર) નો છંટકાવ કરો અને પીળા ચીકણા ટ્રેપ લગાવો."
+      }
+    }
+  },
+
+  "Fusarium Wilt": {
+    "category": "Soilborne Fungal Disease",
+    "pathogen": "Fusarium oxysporum f. sp. vasinfectum",
+    "severity": "High",
+    "severity_color": "#FF5722",
+    "overview": "Fusarium Wilt is a persistent soilborne vascular disease that clogs xylem vessels, preventing water and nutrient translocation, leading to gradual yellowing, wilting, and plant collapse.",
+    "symptoms": [
+      "Initial yellowing of leaf margins and interveinal areas starting from the lower leaves.",
+      "Leaves lose turgor pressure, wilt during sunny afternoons, and fail to recover.",
+      "Leaves turn brown, wither, and drop, leaving bare green or brown stems.",
+      "Cutting the main stem or taproot longitudinally reveals continuous dark brown or black vascular ring discoloration.",
+      "Stunted growth, delayed maturity, and mortality in patches across the field."
+    ],
+    "immediate_actions": [
+      "Avoid inter-cultivation or tillage around wilting patches to prevent root wounding and fungal spread.",
+      "Isolate affected patches with clean drainage channels so irrigation water does not run through infected soil.",
+      "Drench soil at the base of wilting and surrounding healthy plants with systemic fungicide."
+    ],
+    "chemical_control": [
+      "Carbendazim 50% WP: 2.0 g per liter of water (root drenching around plant base, 150-200 ml per plant).",
+      "Thiophanate Methyl 70% WP: 1.5 to 2.0 g per liter of water (root drenching).",
+      "Copper Oxychloride (3 g/L) + Streptocycline (1 g/10 L) drenching if combined with root rot complex."
+    ],
+    "organic_biological": [
+      "Mass multiplication of Trichoderma viride / harzianum (2.5 kg mixed in 500 kg well-rotted FYM/compost applied per acre).",
+      "Soil application of neem cake @ 200 kg/acre to suppress soil fungal load and root-knot nematodes.",
+      "Apply vesicular arbuscular mycorrhiza (VAM) at sowing to strengthen root resistance."
+    ],
+    "prevention": [
+      "Strict 3 to 4-year crop rotation with non-host crops like paddy, sorghum, or maize.",
+      "Grow wilt-resistant or tolerant cotton varieties and hybrids.",
+      "Treat seeds with Carbendazim (2 g/kg) or Trichoderma viride (10 g/kg seed) before sowing.",
+      "Control root-knot nematodes (Meloidogyne incognita) which create entry wounds for Fusarium."
+    ],
+    "favorable_weather": "Soil temperatures of 25-32°C combined with high soil moisture followed by sudden dry spells, acidic/sandy soils.",
+    "translations": {
+      "hi": {
+        "name": "फ्यूजेरियम विल्ट (उकठा / मुरझान रोग)",
+        "overview": "यह मिट्टी जनित फफूंद रोग है जो तने के संवहनी तंत्र को बंद कर देता है, जिससे निचली पत्तियां पीली पड़कर पौधा मुरझा जाता है।",
+        "quick_advice": "कार्बेंडाजिम (2 ग्राम/लीटर) से पौधों की जड़ों में ड्रेन्चिंग करें और ट्राइकोडर्मा को गोबर खाद में मिलाकर खेत में डालें।"
+      },
+      "mr": {
+        "name": "फ्युझारियम मर रोग",
+        "overview": "हा जमिनीतून पसरणारा बुरशीजन्य रोग असून झाडाच्या खोडातील पाणी पुरवठा बंद होतो आणि झाड सुकून वाळते.",
+        "quick_advice": "कार्बेन्डाझिम (२ ग्रॅम/लिटर) ने आळवणी (ड्रेंचिंग) करा आणि ट्रायकोडर्मा शेणखतात मिसळून द्या."
+      },
+      "gu": {
+        "name": "ફ્યુઝેરિયમ સુકારો (મર રોગ)",
+        "overview": "આ જમીનજન્ય ફૂગથી થતો રોગ છે જે મૂળમાંથી ઝાડની નસો બંધ કરી દે છે જેથી આખો છોડ સુકાઈ જાય છે.",
+        "quick_advice": "કાર્બેન્ડાઝીમ (૨ ગ્રામ/લિટર) નું થડ પાસે ડ્રેન્ચિંગ કરો અને ટ્રાઈકોડર્મા છાણીયા ખાતરમાં ભેળવી આપો."
+      }
+    }
+  },
+
+  "Healthy Leaf": {
+    "category": "Optimal Crop Health",
+    "pathogen": "None (Pathogen-Free Foliage)",
+    "severity": "Normal",
+    "severity_color": "#4CAF50",
+    "overview": "The leaf exhibits uniform green chlorophyll pigmentation, intact epidermal structure, regular vein architecture, and no visible necrotic, viral, or chemical lesions.",
+    "symptoms": [
+      "Uniform vibrant green color across all leaf lobes.",
+      "No spots, necrotic margins, water-soaked lesions, or chlorotic halos.",
+      "Firm, turgid leaf texture with natural flex and undamaged leaf veins.",
+      "Absence of insect webbing, nymphs, honeydew, or sooty mold deposits."
+    ],
+    "immediate_actions": [
+      "No curative action required.",
+      "Continue regular weekly scouting across representative field transects.",
+      "Ensure balanced irrigation schedule avoiding both waterlogging and drought stress."
+    ],
+    "chemical_control": [
+      "No chemical fungicides or bactericides needed at this time.",
+      "Maintain preventive schedule only if high pest/weather pressure is forecasted."
+    ],
+    "organic_biological": [
+      "Apply prophylactic spray of 2% Panchagavya or Seaweed extract (2 ml/L) to enhance leaf vigor and immunity.",
+      "Continue beneficial microbial soil health maintenance (Jeevamrut / bio-fertilizers)."
+    ],
+    "prevention": [
+      "Maintain balanced N:P:K nutrient fertilization (do not overapply nitrogen).",
+      "Monitor canopy micro-climate and keep irrigation channels clear.",
+      "Maintain pheromone traps and sticky traps for early pest alert."
+    ],
+    "favorable_weather": "Moderate temperature (22-30°C), adequate sunshine, and optimal soil moisture.",
+    "translations": {
+      "hi": {
+        "name": "स्वस्थ पत्ती (Healthy Leaf)",
+        "overview": "कपास की पत्ती पूरी तरह स्वस्थ है और इसमें किसी बीमारी या कीट के लक्षण नहीं हैं।",
+        "quick_advice": "संतुलित पोषण और सिंचाई बनाए रखें। किसी कीटनाशक या फफूंदनाशक की आवश्यकता नहीं है।"
+      },
+      "mr": {
+        "name": "निरोगी पान (Healthy Leaf)",
+        "overview": "कपाशीचे पान पूर्णपणे निरोगी असून रोगाचे कोणतेही लक्षण नाही.",
+        "quick_advice": "योग्य खत आणि पाणी व्यवस्थापन सुरू ठेवा. कोणत्याही औषध फवारणीची गरज नाही."
+      },
+      "gu": {
+        "name": "તંદુરસ્ત પાન (Healthy Leaf)",
+        "overview": "કપાસનું પાન એકદમ તંદુરસ્ત છે અને કોઈ રોગ કે જીવાતના લક્ષણ નથી.",
+        "quick_advice": "નિયમિત ખાતર અને પિયત જાળવી રાખો. દવાની જરૂર નથી."
+      }
+    }
+  },
+
+  "Herbicide Growth Damage": {
+    "category": "Abiotic Chemical Stress",
+    "pathogen": "Herbicide Drift / Residual Phytotoxicity (e.g., 2,4-D, Glyphosate, Dicamba)",
+    "severity": "Moderate",
+    "severity_color": "#FF9800",
+    "overview": "Herbicide injury is non-parasitic chemical damage typically caused by spray drift from adjoining weedicide applications, contaminated spray tanks, or soil herbicide carryover.",
+    "symptoms": [
+      "Strapped, elongated, shoe-string, or fan-like leaf lamina (typical epinasty from 2,4-D hormone drift).",
+      "Down-curling of leaf tips, thickened parallel venation, and cupped leaves.",
+      "Bleaching, chlorosis, or necrotic spotting if contact herbicides (e.g., paraquat/glufosinate) drifted.",
+      "Shortened internodes and bushy growth on newly emerging terminal flushes.",
+      "Damage is often unevenly distributed, concentrated along field borders or spray paths."
+    ],
+    "immediate_actions": [
+      "Do NOT apply any more herbicides, defoliants, or harsh chemical cocktails.",
+      "Flush the crop with light, frequent irrigation to dilute soil chemical concentration.",
+      "Spray biostimulants (amino acids, humic acid, or seaweed extract) to alleviate plant physiological shock.",
+      "Inspect adjacent fields to identify drift source and prevent repeated contamination."
+    ],
+    "chemical_control": [
+      "No chemical pesticide applies. Counteract physiological stress with:",
+      "Foliar spray of 19:19:19 (Water Soluble NPK) @ 5 g/liter of water.",
+      "Gibberellic Acid (GA3) @ 10-20 ppm (1 g per 50-100 L) to break hormone-induced stunt (if recommended locally).",
+      "Zinc Sulphate 0.5% + Ferrous Sulphate 0.5% + Urea 1% foliar spray."
+    ],
+    "organic_biological": [
+      "Foliar spray of Seaweed extract (Ascophyllum nodosum) @ 2 to 3 ml per liter of water.",
+      "Amino-acid based bio-stimulants @ 2 ml/L to stimulate plant recovery enzymes.",
+      "Soil drenching with liquid humic acid (12%) @ 5 ml/L around root zones."
+    ],
+    "prevention": [
+      "Never use the same spray tank for herbicides and insecticides/fungicides without triple rinsing with 1% washing soda.",
+      "Avoid spraying herbicides on windy days (wind speed > 8 km/h) to eliminate spray drift.",
+      "Use drift-reduction nozzles (anti-drift or air-induction nozzles) when applying weedicides nearby.",
+      "Maintain a 10-meter untreated buffer zone between cotton and herbicide-treated cereal plots."
+    ],
+    "favorable_weather": "High wind conditions during neighboring weedicide sprays; extreme hot days accentuating chemical burns.",
+    "translations": {
+      "hi": {
+        "name": "खरपतवारनाशक का नुकसान (Herbicide Damage)",
+        "overview": "यह किसी कीटनाशक या खरपतवारनाशक (जैसे 2,4-D या ग्लाइफोसेट) के बहाव/छिड़काव से पत्तियों में हुई विकृति और खिंचाव है।",
+        "quick_advice": "कोई रासायनिक दवा न डालें। पौधे को तनाव से उबारने के लिए 19:19:19 (5 ग्राम/लीटर) और सीवीड अर्क (2 मिली/लीटर) का छिड़काव करें।"
+      },
+      "mr": {
+        "name": "तणनाशकाचा दुष्परिणाम",
+        "overview": "शेजारील शेतातून तणनाशकाचा (उदा. 2,4-D) फवारा उडाल्यामुळे पाने बारीक, वाकडी किंवा चोळामोळा होतात.",
+        "quick_advice": "झाडाची वाढ पूर्ववत करण्यासाठी १९:१९:१९ विद्राव्य खत (५ ग्रॅम/लिटर) आणि अमिनो ॲसिड / सीवीड अर्क फवारा."
+      },
+      "gu": {
+        "name": "નિંદામણનાશક ની આડઅસર",
+        "overview": "બાજુના ખેતરમાંથી નિંદામણનાશક દવા (જેમ કે 2,4-D) નો પવનથી છંટકાવ ઉડવાથી પાન ખેંચાઈ જાય છે કે વિકૃત બને છે.",
+        "quick_advice": "૧૯:૧૯:૧૯ ખાતર (૫ ગ્રામ/લિટર) અને સીવીડ એક્સટ્રેક્ટ નો છંટકાવ કરી છોડને રિકવરી આપો."
+      }
+    }
+  },
+
+  "Leaf Redding": {
+    "category": "Physiological / Nutritional Disorder",
+    "pathogen": "Anthocyanin Accumulation due to Magnesium/Nitrogen Deficiency & Cold Stress",
+    "severity": "Moderate",
+    "severity_color": "#E91E63",
+    "overview": "Leaf Redding (Lal Patti) is a non-infectious physiological disorder in Bt cotton caused by heavy boll load, nutrient exhaustion (Mg/N/P), waterlogging, or sudden nocturnal temperature drops.",
+    "symptoms": [
+      "Foliage develops a distinctive reddish-purple to bronze discoloration starting from leaf margins and interveinal tissue.",
+      "Lower and middle canopy leaves are affected first as nutrients are mobilized into developing bolls.",
+      "Veins may initially remain light green, presenting a contrasting reticulate pattern before turning entirely bronze.",
+      "Affected leaves turn brittle, suffer premature senescence, and shed, resulting in small bolls and premature opening."
+    ],
+    "immediate_actions": [
+      "Provide quick supplemental foliar nutrition containing Magnesium Sulphate and Nitrogen.",
+      "Check soil moisture; avoid water stress during peak boll formation stage.",
+      "Scout for sucking pests (jassids/thrips) that accelerate reddening through sap-sucking injury."
+    ],
+    "chemical_control": [
+      "Magnesium Sulphate (MgSO4): 10 g per liter of water (1% solution) foliar spray.",
+      "Potassium Nitrate (13:0:45): 10 g per liter of water (1% solution) for osmotic balance.",
+      "Urea (1-2%) + DAP (2%) foliar spray to rapidly restore leaf nitrogen and phosphorus.",
+      "If sucking pests are present, spray Flonicamid 50% WG @ 0.3 g/L or Acetamiprid 20% SP @ 0.2 g/L."
+    ],
+    "organic_biological": [
+      "Foliar application of Vermiwash (10%) or enriched Jeevamrut.",
+      "Spray 2% Cow milk + 1% jaggery solution as a natural micronutrient activator.",
+      "Application of fermented organic compost with bone meal/rock phosphate around plant root zones."
+    ],
+    "prevention": [
+      "Apply basal dose of Magnesium Sulphate @ 20-25 kg per hectare during field preparation or split at 45 & 75 DAS.",
+      "Maintain optimum drainage to prevent root suffocation during monsoon surges.",
+      "Avoid nutrient depletion by applying split nitrogen and potash fertilizers during peak flowering and boll development.",
+      "Plant shelterbelts to reduce cold night winds during October-November."
+    ],
+    "favorable_weather": "Sudden drop in night temperatures (<18°C) accompanied by high day temperatures (>32°C) during boll maturation.",
+    "translations": {
+      "hi": {
+        "name": "लाल पत्ती रोग (Leaf Redding / Lal Patti)",
+        "overview": "यह कोई फफूंद नहीं बल्कि मैग्नीशियम/पोषक तत्वों की कमी और ठंडे मौसम के तनाव से होने वाला शारीरिक विकार है।",
+        "quick_advice": "मैग्नीशियम सल्फेट (10 ग्राम/लीटर) और 13:0:45 पोटेशियम नाइट्रेट (10 ग्राम/लीटर) का 15 दिन के अंतराल पर 2 बार छिड़काव करें।"
+      },
+      "mr": {
+        "name": "कापसातील लाल्या रोग (Leaf Redding)",
+        "overview": "हा जमिनीतील मॅग्नेशियम, अन्नद्रव्यांची कमतरता आणि थंडीच्या ताणामुळे होणारा शारीरिक विकार आहे.",
+        "quick_advice": "मॅग्नेशियम सल्फेट (१० ग्रॅम/लिटर) + १३:००:४५ (१० ग्रॅम/लिटर) ची फवारणी करावी."
+      },
+      "gu": {
+        "name": "કપાસ માં પાન લાલ થવા (લાલિયા રોગ)",
+        "overview": "આ કોઈ જીવાત કે ફૂગ નથી પણ મેગ્નેશિયમ અને પોષક તત્વો ની ખામી તેમજ ઠંડી ના કારણે થતો રોગ છે.",
+        "quick_advice": "મેગ્નેશિયમ સલ્ફેટ (૧૦ ગ્રામ/લિટર) અને ૧૩:૦:૪૫ (૧૦ ગ્રામ/લિટર) નો છંટકાવ કરવો."
+      }
+    }
+  },
+
+  "Leaf Variegation": {
+    "category": "Genetic / Viral Symptom",
+    "pathogen": "Genetic Chimera / Calico Virus / Micronutrient Stress",
+    "severity": "Low",
+    "severity_color": "#9C27B0",
+    "overview": "Leaf Variegation is characterized by irregular patches of pale yellow, white, or albino tissue intermingled with normal green lamina, stemming from plastid genetic mutations, minor calico virus, or micronutrient chlorosis.",
+    "symptoms": [
+      "Mosaic-like or patchy discoloration with distinct creamy-white, pale-yellow, and dark-green zones.",
+      "Patterns can be localized to a single branch or sector of the plant without rapid contagious spread.",
+      "Leaf shape is largely normal without heavy puckering or severe vein thickening.",
+      "Usually does not cause severe defoliation unless accompanied by secondary fungal infections."
+    ],
+    "immediate_actions": [
+      "Inspect whether variegation is localized to isolated rogue plants or spreading uniformly across the plot.",
+      "If only 1-2 plants exhibit chimeric variegation, simply monitor without costly spraying.",
+      "If variegation is spreading alongside sap-sucking insects, test for viral transmission."
+    ],
+    "chemical_control": [
+      "Chelated Micronutrient Fertilizer (Grade-IV or Grade-II): 2.5 g per liter of water.",
+      "Ferrous Sulphate (FeSO4) 0.5% + Citric acid 0.1% to correct iron chlorosis mimicry.",
+      "If aphid or whitefly vector populations are high: Thiamethoxam 25% WG @ 0.25 g/L."
+    ],
+    "organic_biological": [
+      "Foliar spray of enriched bio-micro-nutrients (fermented with waste decomposer).",
+      "Application of wood ash or composted farmyard manure to supply trace elements.",
+      "Release Chrysoperla predators if sucking insects are detected."
+    ],
+    "prevention": [
+      "Source certified, disease-tested F1 hybrid seeds from recognized government or authorized seed agencies.",
+      "Conduct balanced basal soil fertilization incorporating zinc, boron, and iron.",
+      "Avoid using self-saved seeds from previously abnormal plants."
+    ],
+    "favorable_weather": "Extreme alkaline or calcareous soils inducing micronutrient tie-up; sunny conditions highlighting pigment differences.",
+    "translations": {
+      "hi": {
+        "name": "लीफ वेरिगेशन (पत्तियों का चितकबरापन)",
+        "overview": "पत्तियों पर अनियमित हल्के पीले, सफेद और हरे रंग के धब्बे दिखते हैं जो आनुवंशिक कारण या सूक्ष्म पोषक तत्वों की कमी से होते हैं।",
+        "quick_advice": "चिलेटेड सूक्ष्म पोषक तत्व (2.5 ग्राम/लीटर) का छिड़काव करें। यदि केवल 1-2 पौधों में हो तो दवा डालने की आवश्यकता नहीं है।"
+      },
+      "mr": {
+        "name": "पानांवरील रंगबदल / चितकबरेपणा",
+        "overview": "पानांवर हिरवे आणि पांढरे/पिवळे पट्टे दिसतात. हे सहसा जनुकीय किंवा सूक्ष्म अन्नद्रव्यांच्या कमतरतेमुळे होते.",
+        "quick_advice": "चिलेटेड सूक्ष्म अन्नद्रव्ये (२.५ ग्रॅम/लिटर) फवारावे."
+      },
+      "gu": {
+        "name": "પાન નો રંગબેરંગી પટ્ટા વાળો રોગ",
+        "overview": "પાન પર સફેદ, પીળા અને લીલા ધાબા જોવા મળે છે, જે આનુવંશિક અથવા સૂક્ષ્મ પોષકતત્વો ની ખામીને કારણે હોઈ શકે છે.",
+        "quick_advice": "મિક્સ માઇક્રોન્યુટ્રિએન્ટ ખાતર (૨.૫ ગ્રામ/લિટર) નો છંટકાવ કરવો."
+      }
+    }
+  },
+
+  "Verticillium Wilt": {
+    "category": "Soilborne Fungal Disease",
+    "pathogen": "Verticillium dahliae",
+    "severity": "High",
+    "severity_color": "#D84315",
+    "overview": "Verticillium Wilt is a cool-weather vascular fungus producing characteristic 'tiger-stripe' interveinal chlorosis and leaf necrosis, leading to vascular browning and premature defoliation.",
+    "symptoms": [
+      "Interveinal chlorosis giving the leaf a distinctive 'tiger-stripe' or mottled yellow-and-green appearance.",
+      "Leaf margins curl slightly and affected interveinal zones turn necrotic and brown.",
+      "Infection typically progresses from the bottom leaves upward as the crop matures.",
+      "Cross-section of the stem reveals olive-brown to dark-brown streaks in the vascular xylem tissue.",
+      "Foliage may dry and drop rapidly during sudden warm dry spells following cool, wet periods."
+    ],
+    "immediate_actions": [
+      "Mark and isolate the affected field zones; avoid irrigating from infected rows into healthy areas.",
+      "Avoid cutting root systems during weeding or tilling near affected plants.",
+      "Drench root zones of border plants with systemic fungicide to inhibit microsclerotia growth."
+    ],
+    "chemical_control": [
+      "Thiophanate Methyl 70% WP: 1.5 to 2.0 g per liter of water (soil drenching at plant base).",
+      "Carbendazim 12% + Mancozeb 63% WP: 2.5 g per liter of water (root drenching).",
+      "Fosetyl-Al 80% WP: 2.0 g per liter of water (foliar spray to boost systemic acquired resistance)."
+    ],
+    "organic_biological": [
+      "Soil application of Trichoderma harzianum or Bacillus subtilis (5 kg/ha in 500 kg FYM).",
+      "Green manuring with mustard or Brassica crops (bio-fumigation releases glucosinolates that kill microsclerotia).",
+      "Apply high doses of well-decomposed organic matter to stimulate antagonistic soil microbes."
+    ],
+    "prevention": [
+      "Adopt deep summer plowing and soil solarization with transparent polyethylene sheets during May-June.",
+      "Crop rotation with immune non-host crops (corn, sorghum, pearl millet) for at least 3 years.",
+      "Maintain adequate potassium fertilization, which strengthens xylem vessel resistance to fungal penetration.",
+      "Plant tolerant cotton cultivars and avoid high plant density in fields with a history of wilt."
+    ],
+    "favorable_weather": "Moderate or cool temperatures (20-25°C) combined with high soil moisture and alkaline soil pH (>7.5).",
+    "translations": {
+      "hi": {
+        "name": "वर्टिसिलियम विल्ट (बाघ जैसी धारियां / मुरझान रोग)",
+        "overview": "यह मिट्टी जनित फफूंद रोग है जो पत्तियों पर बाघ जैसी पीली-हरी धारियां बनाता है और पौधे के संवहनी तने को भूरा कर देता है।",
+        "quick_advice": "थायोफेनेट मिथाइल (1.5 ग्राम/लीटर) से जड़ों में ड्रेन्चिंग करें और पोटाश खाद की पर्याप्त मात्रा दें।"
+      },
+      "mr": {
+        "name": "व्हर्टिसिलियम मर रोग",
+        "overview": "पानांच्या शिरांमधील भाग पिवळा पडून वाघाच्या अंगावरील पट्ट्यासारखा दिसतो आणि खोडाच्या आत काळपट तपकिरी रंग येतो.",
+        "quick_advice": "थायोफिनेट मिथाईल (१.५ ग्रॅम/लिटर) चे मुळांशी आळवणी करा."
+      },
+      "gu": {
+        "name": "વર્ટીસીલીયમ સુકારો",
+        "overview": "આ રોગમાં પાનની નસો વચ્ચે વાઘ જેવી પીળી-લીલી પટ્ટીઓ પડે છે અને થડ ની અંદર કાળો-કથ્થાઈ રંગ થઈ જાય છે.",
+        "quick_advice": "થાયોફેનેટ મિથાઇલ (૧.૫ ગ્રામ/લિટર) નું મૂળ પાસે ડ્રેન્ચિંગ કરો."
+      }
+    }
+  }
+}

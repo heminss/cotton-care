@@ -1,0 +1,35 @@
+# Based on the bundled shadcn theme, adapted for Cotton care.
+[theme]
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "12px"
+buttonRadius = "8px"
+font = "sans-serif"
+headingFontWeights = [650, 600, 600, 600, 600, 600]
+
+[theme.light]
+primaryColor = "#22654E"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F5F0"
+textColor = "#20382E"
+borderColor = "#D8E3D9"
+
+[theme.light.sidebar]
+backgroundColor = "#F1F5F0"
+secondaryBackgroundColor = "#E5EDE4"
+textColor = "#20382E"
+primaryColor = "#22654E"
+
+[theme.dark]
+primaryColor = "#79CBA7"
+backgroundColor = "#101C17"
+secondaryBackgroundColor = "#1C2D24"
+textColor = "#E7F1EB"
+borderColor = "#385044"
+
+[theme.dark.sidebar]
+backgroundColor = "#14231C"
+secondaryBackgroundColor = "#243B2E"
+textColor = "#E7F1EB"
+primaryColor = "#79CBA7"
+borderColor = "#385044"
